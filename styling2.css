@@ -1,0 +1,33 @@
+body{
+    margin:0;
+}
+.sq1{
+    background-color: aqua;
+    width: 100px;
+    height:100px;
+    position:absolute;
+    left: 20px;
+    margin-top:10px;
+
+}
+.sq2{
+    background-color: rgb(232, 110, 16);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+    right:10px;
+    left:120px;
+    margin-top: 110px;
+}
+.sq3{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+    right:10px;
+    left:220px;
+    margin-top: 210px;
+    
+    
+}
+
